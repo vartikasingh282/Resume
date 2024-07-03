@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    padding-top: 100%;
+    background-color: #CDF5FD;
+    font-family: cursive;
+    position: relative;
+    padding-top: 100px;
+}
+
+.footer-link:hover {
+    color: #BC7AF9;
+  }
+
+@media (max-width: 68opx) {
+    * {
+        font-size: medium;
+    }
+}
